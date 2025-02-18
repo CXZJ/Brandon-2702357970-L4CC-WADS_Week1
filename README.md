@@ -10,4 +10,7 @@ Web application security is crucial for protecting online services from threats 
 ![Web Application Security Best Practices](https://tse2.mm.bing.net/th?id=OIP.H0MJ3G2-fwWERiUxL5UukgHaGW&pid=Api)
 ![Common Web Vulnerabilities](https://tse3.mm.bing.net/th?id=OIP.QHxfOMqgW8ruZu800XkvoAHaDt&pid=Api)
 
+<<<<<<< HEAD
 Feature branch update: Adding additional details.
+Experiment branch update: Testing new ideas.
+>>>>>>> experiment
