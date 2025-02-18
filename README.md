@@ -11,6 +11,9 @@ Web application security is crucial for protecting online services from threats 
 ![Common Web Vulnerabilities](https://tse3.mm.bing.net/th?id=OIP.QHxfOMqgW8ruZu800XkvoAHaDt&pid=Api)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Feature branch update: Adding additional details.
 Experiment branch update: Testing new ideas.
 >>>>>>> experiment
+Testing branch update: Finalizing tests.
+>>>>>>> testing
